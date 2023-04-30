@@ -1,0 +1,29 @@
+Manual:
+Use the fingers to control your computer:
+Use one finger to control windows
+Use two fingers to control volume
+Use three fingers to use the scroll
+Use four fingers to get a quick help
+
+The dominant finger is highlighted by a circle
+_____________________________________
+One finger, Window:
+Swipe right to select the right window,
+slide down your finger in the red box to reduce the window
+slide up your finger in the green box to enlarge the window
+Open your hand (until you see the "High five!" caption) and then close it
+to close the selected window.
+- - - - - - - - - - - - - - - - 
+Two fingers, Volume:
+slide down your finger in the red box to reduce the volume
+slide up your finger in the green box to enlarge the volume
+- - - - - - - - - - - - - - - -
+Three fingers, Scroll:
+slide down your finger in the red box to scroll down
+slide up your finger in the green box to scroll up
+- - - - - - - - - - - - - - - - 
+Four fingers, Help:
+Just a quick review of this manual 
+
+
+
